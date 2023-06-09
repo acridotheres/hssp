@@ -20,7 +20,7 @@
     },
     {
       "login": "allcontributors",
-      "name": "AllContributors",
+      "name": "allcontributors[bot]",
       "avatar_url": "https://avatars.githubusercontent.com/in/23186?v=4",
       "profile": "https://allcontributors.org",
       "contributions": [
@@ -28,6 +28,7 @@
       ]
     }
   ],
+  "badgeTemplate": "",
   "contributorsPerLine": 7,
   "skipCi": true,
   "repoType": "github",
