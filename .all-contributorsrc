@@ -6,17 +6,7 @@
   "commit": false,
   "commitType": "docs",
   "commitConvention": "angular",
-  "contributors": [
-    {
-      "login": "Le0X8",
-      "name": "LeoX DEV",
-      "avatar_url": "https://avatars.githubusercontent.com/u/84378319?v=4",
-      "profile": "http://leox.dev",
-      "contributions": [
-        "maintenance"
-      ]
-    }
-  ],
+  "contributors": [],
   "badgeTemplate": "[![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/all-contributors/<%= projectOwner %>/<%= projectName %>?label=Contributors&logo=<%= repoType %>&logoColor=white&style=for-the-badge)](#contributors)",
   "contributorsPerLine": 7,
   "skipCi": true,
