@@ -7,7 +7,7 @@
   "commitType": "docs",
   "commitConvention": "angular",
   "contributors": [],
-  "badgeTemplate": "[![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/all-contributors/<%= projectOwner %>/<%= projectName %>?label=Contributors&logo=<%= repoType %>&logoColor=white&style=for-the-badge)](#contributors)",
+  "badgeTemplate": "[![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/all-contributors/<%= projectOwner %>/<%= projectName %>?label=Contributors&logo=<%= repoType %>&logoColor=white&style=for-the-badge)](CONTRIBUTORS.md)",
   "contributorsPerLine": 7,
   "skipCi": true,
   "repoType": "github",
