@@ -8,9 +8,20 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "all-contributors",
-      "name": "All Contributors",
-      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "login": "Le0X8",
+      "name": "LeoX DEV",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84378319?v=4",
+      "profile": "https://leox.dev/",
+      "contributions": [
+        "maintenance",
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "allcontributors",
+      "name": "AllContributors",
+      "avatar_url": "https://avatars.githubusercontent.com/in/23186?v=4",
       "profile": "https://allcontributors.org",
       "contributions": [
         "doc"
