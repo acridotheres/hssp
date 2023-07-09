@@ -3,8 +3,8 @@
 Welcome to the HSSP documentation!
 
 Here, you can find information about...
-- [the HSSP format](/documentation/about)
-- [saving data in a HSSP file](/documentation/files)
-- [all versions](/documentation/versions)
-- [encryption in HSSP files](/documentation/encryption)
-- [compression in HSSP files](/documentation/compression)
+- [the HSSP format](about.md)
+- [saving data in a HSSP file](files.md)
+- [all versions](versions/index.md)
+- [encryption in HSSP files](encryption.md)
+- [compression in HSSP files](compression.md)
