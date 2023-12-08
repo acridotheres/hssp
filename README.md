@@ -1,4 +1,5 @@
 <p align="center">
+  <img align="center" src="https://img.shields.io/github/stars/HSSPfile?style=for-the-badge&logo=github&color=%23ff0">
   <img align="center" src="https://img.shields.io/github/all-contributors/HSSPfile/specification?label=Contributors&logo=github&style=for-the-badge">
 
   <h1 align="center">HSSP</h1>
@@ -47,6 +48,7 @@ Read this in other languages:
       - [2.4.3.1. Header](#2431-header)
       - [2.4.3.2. Index](#2432-index)
       - [2.4.3.2. Body](#2433-body)
+- [3. Compression algorithms](#3-compression-algorithms)
 - [4. Contributors](#4-contributors)
 
 ---
