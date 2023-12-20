@@ -14,7 +14,7 @@ If you have any feature requests for future versions, please open an issue.
 
 Read this in other languages:
 
-- [Deutsch](LIESMICH.md)
+- [🇩🇪 Deutsch](LIESMICH.md)
 
 ---
 

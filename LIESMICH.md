@@ -14,7 +14,7 @@ Falls Sie Funktionen oder Änderungen vorschlagen möchten, können Sie dies ger
 
 In anderen Sprachen lesen:
 
-- [English](README.md)
+- [🇺🇸 English](README.md)
 
 ---
 
