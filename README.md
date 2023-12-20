@@ -55,7 +55,7 @@ Read this in other languages:
 
 ## 0. About this specification
 
-This is the official HSSP specification, licensed under the [MIT License](LICENSE). All dates are in ISO 8601 format (YYYY-MM-DD).
+This is the official HSSP specification, licensed under the [MIT License](LICENSE). All dates are in ISO 8601 format (YYYY-MM-DD). If a MurmurHash3 checksum is used, it always uses the number `822616071` (decimal) as seed.
 
 ## 1. Introduction
 

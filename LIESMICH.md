@@ -24,7 +24,7 @@ In anderen Sprachen lesen:
 
 ## 0. Über diese Spezifikation
 
-Dies ist die offizielle HSSP-Spezifikation, lizenziert unter der [MIT-Lizenz](LICENSE). Alle Datumsangaben liegen im DIN 5008-Datumsformat an inländische Empfänger (TT.MM.JJJJ) vor.
+Dies ist die offizielle HSSP-Spezifikation, lizenziert unter der [MIT-Lizenz](LICENSE). Alle Datumsangaben liegen im DIN 5008-Datumsformat an inländische Empfänger (TT.MM.JJJJ) vor. Wenn eine MurmurHash3-Prüfsumme verwendet wird, wird immer die Zahl `822616071` (im Dezimalsystem) als Seed verwendet.
 
 ## 1. Einleitung
 
