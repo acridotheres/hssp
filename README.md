@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://img.shields.io/github/stars/HSSPfile?style=for-the-badge&logo=github&color=%23ff0">
+  <img align="center" src="https://img.shields.io/github/stars/HSSPfile?style=for-the-badge&logo=github&color=%23ff0&label=Total%20stars">
   <img align="center" src="https://img.shields.io/github/all-contributors/HSSPfile/specification?label=Contributors&logo=github&style=for-the-badge">
 
   <h1 align="center">HSSP</h1>
