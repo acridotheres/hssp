@@ -254,7 +254,7 @@ HSSP Indexed is the first "real update" to HSSP. It now really uses the addition
 |  0xC   |  0x20  | Password hash (double SHA-256)                                                                                            |          |
 |  0x2C  |  0x10  | Initialization vector (IV)                                                                                                |          |
 |  0x3C  |  0x4   | Used [compression algorithm](#3-compression-algorithms)                                                                   |  UTF-8   |
-|  0x40  |  0x4   | Checksum of the [body](#2433-body) (files)                                                                                | Uint32LE |
+|  0x40  |  0x4   | Checksum of the [body](#2433-body) (files) and the [index](#2432-index)                                                   | Uint32LE |
 |  0x44  |  0x8   | File count of all the files, even those that are not in this package! (may be 0x0 if not splitted)                        | Uint64LE |
 |  0x4C  |  0x8   | Offset of the file that has been splitted. (0x0 if not splitted)                                                          | Uint64LE |
 |  0x54  |  0x4   | Checksum of the previous package (0x0 if not splitted or not existing)                                                    | Uint32LE |
