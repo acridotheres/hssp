@@ -18,6 +18,12 @@ Read this in other languages:
 
 ---
 
+<p align="center">
+  <a href="https://developers.acridotheres.com/formats/hssp">&#x2728; Now also available in Acridotheres for developers! &#x2728;</a>
+</p>
+
+---
+
 ## Table of contents
 
 - [0. About this specification](#0-about-this-specification)
