@@ -513,7 +513,7 @@ A file is structured like this:
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://leox.dev"><img src="https://avatars.githubusercontent.com/u/84378319?v=4?s=100" width="100px;" alt="LeoX DEV"/><br /><sub><b>LeoX DEV</b></sub></a><br /><a href="#maintenance-Le0X8" title="Maintenance">🚧</a> <a href="https://github.com/HSSPfile/specification/commits?author=Le0X8" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://leox.dev"><img src="https://avatars.githubusercontent.com/u/84378319?v=4?s=100" width="100px;" alt="Leonard Lesinski"/><br /><sub><b>Leonard Lesinski</b></sub></a><br /><a href="#maintenance-Le0X8" title="Maintenance">🚧</a> <a href="https://github.com/HSSPfile/specification/commits?author=Le0X8" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
