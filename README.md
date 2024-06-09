@@ -19,7 +19,7 @@ Read this in other languages:
 ---
 
 <p align="center">
-  <a href="https://developers.acridotheres.com/formats/hssp">&#x2728; Now also available in Acridotheres for developers! &#x2728;</a>
+  <a href="https://developers.acridotheres.com/formats/hssp">&#x2728; Now also available on Acridotheres for developers! &#x2728;</a>
 </p>
 
 ---
