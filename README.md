@@ -261,7 +261,7 @@ HSSP Indexed is the first "real update" to HSSP. It now really uses the addition
 |  0x58  |  0x4   | Checksum of the next package (0x0 if not splitted or not existing)                                                        | Uint32LE |
 |  0x5C  |  0x4   | ID of this package (0x0 if not splitted) (0 is the first part, 1 is the second, ...)                                      | Uint32LE |
 |  0x60  |  0x10  | Comment                                                                                                                   |  UTF-8   |
-|  0x70  |  0x10  | Generator credits, the official JavaScript library puts `hssp 5.0.0 @ npm` in here. Acridotheres uses `acridotheres.com`. |  UTF-8   |
+|  0x70  |  0x10  | Generator credits, the official JavaScript library puts `hssp 5.0.0 @ npm` in here. Acridotheres uses something like `core v0.1.0`. |  UTF-8   |
 
 ##### 2.4.3.2. Index
 
@@ -330,7 +330,7 @@ HSSP Flagged is a small, but important update to HSSP Indexed. It adds flags to 
 |  0x58  |  0x4   | Checksum of the next package (0x0 if not splitted or not existing)                                                        | Uint32LE |
 |  0x5C  |  0x4   | ID of this package (0x0 if not splitted) (0 is the first part, 1 is the second, ...)                                      | Uint32LE |
 |  0x60  |  0x10  | Comment                                                                                                                   |  UTF-8   |
-|  0x70  |  0x10  | Generator credits, the official JavaScript library puts `hssp 5.0.0 @ npm` in here. Acridotheres uses `acridotheres.com`. |  UTF-8   |
+|  0x70  |  0x10  | Generator credits, the official JavaScript library puts `hssp 5.0.0 @ npm` in here. Acridotheres uses something like `core v0.1.0`. |  UTF-8   |
 
 ##### 2.5.2.2. Flags
 
@@ -438,7 +438,7 @@ Because of the new chaining feature, the file structure is now much more complex
 |  0x58  |  0x4   | Checksum of the next package (0x0 if not splitted or not existing)                                                        | Uint32LE |
 |  0x5C  |  0x4   | ID of this package (0x0 if not splitted) (0 is the first part, 1 is the second, ...)                                      | Uint32LE |
 |  0x60  |  0x10  | Comment                                                                                                                   |  UTF-8   |
-|  0x70  |  0x10  | Generator credits, the official JavaScript library puts `hssp 5.0.0 @ npm` in here. Acridotheres uses `acridotheres.com`. |  UTF-8   |
+|  0x70  |  0x10  | Generator credits, the official JavaScript library puts `hssp 5.0.0 @ npm` in here. Acridotheres uses something like `core v0.1.0`. |  UTF-8   |
 
 ##### 2.6.3.2. Flags
 
