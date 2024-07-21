@@ -69,6 +69,7 @@ Read this in other languages:
       - [2.6.3.2. Flags](#2632-flags)
       - [2.6.3.3. Index](#2633-index)
       - [2.6.3.4. Body](#2634-body)
+  - [2.7. HSSP v7 (Cryptography Update/CRYP)](#27-hssp-v7-cryptography-updatecryp)
 - [3. Compression algorithms](#3-compression-algorithms)
 - [4. Contributors](#4-contributors)
 
