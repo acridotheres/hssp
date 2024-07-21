@@ -498,6 +498,10 @@ A file is structured like this:
 | :----: | :----: | :------------ | :--: |
 |  0x0   |   ?    | File contents |      |
 
+### 2.7. HSSP v7 (Cryptography Update/CRYP)
+
+This will be another big update for HSSP to support more encryption algorithms, asynchronous encryption, signing and encryption over the internet.
+
 ## 3. Compression algorithms
 
 |     Name     | IDXD/FLGD code |     SPRD code      |
@@ -505,10 +509,6 @@ A file is structured like this:
 | No algorithm |     `NONE`     | _not used anymore_ |
 |     LZMA     |     `LZMA`     |      `0x4950`      |
 |   DEFLATE    |     `DFLT`     |      `0x4446`      |
-
-### 2.7. HSSP v7 (Cryptography Update/CRYP)
-
-This will be another big update for HSSP to support more encryption algorithms, asynchronous encryption, signing and encryption over the internet.
 
 ## 4. Contributors
 
