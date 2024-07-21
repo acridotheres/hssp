@@ -504,7 +504,7 @@ This will be another big update for HSSP to support more encryption algorithms, 
 
 ## 3. Compression algorithms
 
-|     Name     | IDXD/FLGD code |     SPRD code      |
+|     Name     | IDXD/FLGD code |     SPRD/CRYP code      |
 | :----------: | :------------: | :----------------: |
 | No algorithm |     `NONE`     | _not used anymore_ |
 |     LZMA     |     `LZMA`     |      `0x4950`      |
