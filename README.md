@@ -505,6 +505,10 @@ A file is structured like this:
 |     LZMA     |     `LZMA`     |      `0x4950`      |
 |   DEFLATE    |     `DFLT`     |      `0x4446`      |
 
+### 2.7. HSSP v7 (Cryptography Update/CRYP)
+
+This will be another big update for HSSP to support more encryption algorithms, asynchronous encryption, signing and encryption over the internet.
+
 ## 4. Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
