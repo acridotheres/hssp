@@ -1,3 +1,7 @@
+<p align="center">
+  <h1 align="center">HSSP</h1>
+  <h3 align="center">Huge Size Supporting Package</h3>
+</p>
 
 ---
 
@@ -498,7 +502,7 @@ A file is structured like this:
 
 | Release date |
 | :----------: |
-|    soon!     |
+|  2024-08-31  |
 
 This large update adds the option to use a different encryption algorithm than AES-256-CBC, signing, asymmetric encryption support and native support for [Acridotheres WebAuth](https://acridotheres.com/plus/webauth) as well as better header organization & even more checksums to verify integrity even better.
 
