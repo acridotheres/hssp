@@ -93,6 +93,8 @@ HSSP has multiple versions, each with different features.
 | :----------: |
 |  2023-03-14  |
 
+- [Reference implementation (Rust)](https://github.com/acridotheres/hssp2)
+
 Wrongfolder is the first version of HSSP. It's called Wrongfolder, because @Le0X8 published a wrong folder of the first HSSP implementation in JavaScript ([&rarr; official JavaScript library](https://github.com/HSSPfile/js)).
 
 #### 2.1.1. Features
@@ -143,6 +145,8 @@ When encrypting, you have to encrypt the whole body.
 | :----------: |
 |  2023-03-14  |
 
+- [Reference implementation (Rust)](https://github.com/acridotheres/hssp2)
+
 #### 2.2.1. New features
 
 _none_
@@ -188,6 +192,8 @@ When encrypting, you have to encrypt the whole body.
 | :----------: |
 |  2023-03-14  |
 
+- [Reference implementation (Rust)](https://github.com/acridotheres/hssp2)
+
 The header is now 128 bytes long.
 
 #### 2.3.1. New features
@@ -196,7 +202,7 @@ _none_
 
 #### 2.3.2. File structure
 
-The file structure of Wrongfolder is very simple. It consists of a 128 byte [header](#2321-header) and a [body](#2322-body).
+The file structure of Doubleheader is very simple. It consists of a 128 byte [header](#2321-header) and a [body](#2322-body).
 
 ##### 2.3.2.1. Header
 
