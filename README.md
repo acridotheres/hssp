@@ -681,7 +681,9 @@ A file is structured like this:
 | :----------: | :------------: | :----------------: |
 | No algorithm |     `NONE`     | _not used anymore_ |
 |     LZMA     |     `LZMA`     |      `0x4950`      |
-|   DEFLATE    |     `DFLT`     |      `0x4446`      |
+| DEFLATE      |     `DEFL`     |      `0x4446`      |
+|   DEFLATE + zlib    |     `DFLT`     |      `0x445a`      |
+
 
 ## 4. Encryption algorithms
 
